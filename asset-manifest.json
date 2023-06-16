@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Audi-web/static/css/main.31c77fd0.css",
+    "main.js": "/Audi-web/static/js/main.25c48195.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Audi-web/static/js/787.28cb0dcd.chunk.js",
+    "static/media/1.gif": "/Audi-web/static/media/1.1b1ff221e75548fda49c.gif",
+    "static/media/ban1.jpg": "/Audi-web/static/media/ban1.6f5a5c756a695c642042.jpg",
+    "static/media/main.jpg": "/Audi-web/static/media/main.26e44c086a5f613d55e5.jpg",
+    "static/media/ban2.jpg": "/Audi-web/static/media/ban2.616571cc037f036f291d.jpg",
+    "static/media/3.png": "/Audi-web/static/media/3.f48b4f56ee8f807ca5c2.png",
+    "static/media/columns1.avif": "/Audi-web/static/media/columns1.1be7bd8390c795bd4641.avif",
+    "static/media/last.avif": "/Audi-web/static/media/last.c0eab87204434faf382e.avif",
+    "static/media/audii.avif": "/Audi-web/static/media/audii.8f7c30e99ccf8e4127ba.avif",
+    "static/media/ban.avif": "/Audi-web/static/media/ban.3962c75da31f32fe0e7b.avif",
+    "static/media/4.avif": "/Audi-web/static/media/4.cc61bc253980b4327166.avif",
+    "index.html": "/Audi-web/index.html",
+    "main.31c77fd0.css.map": "/Audi-web/static/css/main.31c77fd0.css.map",
+    "main.25c48195.js.map": "/Audi-web/static/js/main.25c48195.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Audi-web/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31c77fd0.css",
+    "static/js/main.25c48195.js"
+  ]
+}
